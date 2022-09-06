@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+
+body{
+  background: #466368;
+  background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+}
+
+.App {
+  margin-top: 3%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.choose{
+  margin-top: 2%;
+  height: 15rem;
+  border-bottom: 2px dotted;
+}
+
+.choose-title{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.idea {
+  width: 20%;
+  height: 7rem;
+  border: 1px solid;
+  text-align: center;
+  cursor: pointer;
+}
+
+.fresh-ideas {
+  flex-direction: row;
+	display: flex;
+  justify-content: space-between;
+  margin-top: 2.5rem;
+}
+
+.choose-ideas {
+  flex-direction: row;
+	display: flex;
+  height: 10rem;
+  justify-content: space-between;
+  margin-top: 2.5rem;
+}
+
+.activity {
+  vertical-align:middle; 
+  display:table-cell;
+  height: 5.2rem;
+  width: 10%;
+  border-bottom: 1px dashed;
+}
+
+.type{
+  font-size: 1.1rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main_idea{
+  vertical-align:middle; 
+  display:table-cell;
+  width: 20%;
+  height: 7.5rem;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.current_idea{
+  width: 20%;
+  height: 8.5rem;
+  text-align: center;
+}
+
+.side_idea{
+  margin-top: 1.2rem;
+  width: 20%;
+  height: 4rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.main_activity{
+  vertical-align:middle; 
+  display:table-cell;
+  height: 5.7rem;
+  width: 10%;
+  border-bottom: 1px dashed;
+}
+
+.side_activity{
+  vertical-align:middle; 
+  display:table-cell;
+  height: 5.2rem;
+  border: 1px solid;
+  width: 10%;
+}
+
+.arrow{
+  margin-top: 5%;
+  font-size: 3rem;
+}
+
+.current-number {
+  margin-top: 0.5rem;
+  font-size: 1.25rem;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.2rem;
+}
+
+.type_idea{
+  margin-top: 2%;
+  height: 20rem;
+  border-bottom: 2px dotted;
+}
+
+.all_achievements{
+  height: 14rem;
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.all_achievements_1{
+  width: 100%;
+  height: 6rem;
+}
+
+.all_achievements_2{
+  width: 100%;
+  height: 6rem;
+  margin-top: 2rem;
+}
+
+.achievements{
+  height: 5rem;
+  width: 5rem;
+  vertical-align:middle; 
+  display:table-cell;
+}
+
+.circle{ 
+  margin-left: 5.5rem;
+  margin-right: 5.5rem;
+  border-radius: 50%;
+  border: 1px solid;
+  width: 4rem;
+  height: 4rem;
+}
+
+.number{
+  margin-top: 1.25rem;
+  font-size: 1.3rem;
+}
+
+.category{
+  margin-top: 5%;
+  font-family: 'Roboto Condensed';
+  font-size: 1.25rem;
+}
+
+.footer{
+  margin-top: 3%;
+  height: 30rem;
+}
+
+table{
+  margin-left: 5%;
+  margin-top: 5%;
+  text-align:center;
+  width: 90%;
+  border: 1px solid;
+  border-spacing: 0px;
+}
+
+.table_number{
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  width: 5%;
+}
+
+.table_title{
+  border-bottom: 1px solid;
+  width: 35%;
+}
+
+.table_type{
+  border-bottom: 1px solid;
+  width: 30%;
+}
+
+.table_when{
+ border-bottom: 1px solid;
+ width: 30%;
+}
+
+.right-border{
+  border-right: 1px solid;
+}
+
+td, th{
+  height: 2.5rem;
+}
+
+.loading{
+  margin-top: 20%;
+  text-align: center;
+  font-size: 120%;
+}
+
+.icon-loading{
+  font-size: 150%;
+  animation: rotate 2s infinite steps(100);
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotateZ(360deg);
+  }
+}

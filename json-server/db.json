@@ -1,0 +1,148 @@
+{
+  "proposed_ideas": [
+    {
+      "activity": "Volunteer and help out at a senior center",
+      "type": "charity",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "3920096",
+      "accessibility": 0.1,
+      "id": 11
+    },
+    {
+      "activity": "Pull a harmless prank on one of your friends",
+      "type": "social",
+      "participants": 1,
+      "price": 0.1,
+      "link": "",
+      "key": "1288934",
+      "accessibility": 0.2,
+      "id": 10
+    },
+    {
+      "id": 9,
+      "activity": "Teach your dog a new trick",
+      "type": "relaxation",
+      "participants": 1,
+      "price": 0.05,
+      "link": "",
+      "key": "1668223",
+      "accessibility": 0.15
+    },
+    {
+      "activity": "Make a budget",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": 4379552,
+      "accessibility": 0.1,
+      "id": 13
+    }
+  ],
+  "list_idea": [
+    {
+      "activity": "Mow your neighbor's lawn",
+      "type": "charity",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "1303906",
+      "accessibility": 0.2,
+      "id": 7
+    },
+    {
+      "activity": "Make a budget",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": 4379552,
+      "accessibility": 0.1,
+      "id": 8
+    },
+    {
+      "id": 12,
+      "activity": "Learn the periodic table",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "https://en.wikipedia.org/wiki/Periodic_table",
+      "key": "3621244",
+      "accessibility": 0.6
+    }
+  ],
+  "complate_ideas": [
+    {
+      "activity": "Create a cookbook with your favorite recipes",
+      "type": "cooking",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": "1947449",
+      "accessibility": 0.05,
+      "id": 3,
+      "date": [
+        5,
+        "вересня"
+      ]
+    },
+    {
+      "activity": "Bake a pie with some friends",
+      "type": "cooking",
+      "participants": 3,
+      "price": 0.3,
+      "link": "",
+      "key": "3141592",
+      "accessibility": 0.3,
+      "id": 1,
+      "date": [
+        5,
+        "вересня"
+      ]
+    },
+    {
+      "activity": "Learn the Chinese erhu",
+      "type": "music",
+      "participants": 1,
+      "price": 0.6,
+      "link": "",
+      "key": "2742452",
+      "accessibility": 0.4,
+      "id": 5,
+      "date": [
+        5,
+        "вересня"
+      ]
+    },
+    {
+      "activity": "Learn the NATO phonetic alphabet",
+      "type": "education",
+      "participants": 1,
+      "price": 0,
+      "link": "https://en.wikipedia.org/wiki/NATO_phonetic_alphabet",
+      "key": "6706598",
+      "accessibility": 0,
+      "id": 4,
+      "date": [
+        5,
+        "вересня"
+      ]
+    },
+    {
+      "activity": "Make a budget",
+      "type": "busywork",
+      "participants": 1,
+      "price": 0,
+      "link": "",
+      "key": 4379552,
+      "accessibility": 0.1,
+      "id": 6,
+      "date": [
+        5,
+        "вересня"
+      ]
+    }
+  ]
+}
